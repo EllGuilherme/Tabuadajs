@@ -1,9 +1,9 @@
 const numerodesejado=prompt("Tabuada do número:")
 let numero = 0
 let contador = 1
-let resultado = 'Tabuada do Número'
+let resultado = 'Tabuada do Número:'
 
-while (numero < 20)
+while (numero < 10)
 
 {
 numero = numero + 1
